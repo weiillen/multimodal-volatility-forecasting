@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sumy
+tensorflow
+torch
+transformers
