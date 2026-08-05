@@ -1,9 +1,0 @@
-original_archive_path	portfolio_path	size_bytes	sha256	byte_identical
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/Model_1_Price.ipynb	original-project/Model_1_Price.ipynb	241132	d32b1fdf98220519229f87fefb30206befa1ee4304c72bf78cdddc8bb15fd538	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/Model_2_Sentiment.ipynb	original-project/Model_2_Sentiment.ipynb	52264	6bfcda0875da8244d3bb208f1e8adf24af11a612c490f0c10e45ea9406071fb0	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/Model_3_DNN.ipynb	original-project/Model_3_DNN.ipynb	818297	c768f8abff736e063045b69342cea657414686bb9274917eda1d1782ad296935	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/README.md	original-project/README.md	2327	3b047c454bc895cbfc0464f17d12a87ac27a5fafb4137b15177dd454a13296aa	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/news_data_raw.csv	original-project/news_data_raw.csv	7150795	ebffcd331219c30b066706579c2fe8e61ab0d4380743b3ba70d424836ace33ed	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/price_data_raw.csv	original-project/price_data_raw.csv	1509616	50725eb03d9daf850da70a8cbbb3ce4d8eba88f46b089ea7575cc2ee5d7d84dd	true
-final/Machine-Learning-Project-main.zip::Machine-Learning-Project-main/volatility_utils.py	original-project/volatility_utils.py	3892	cf4a7f761745a4efa6b610801e2c7c27bd43213a4a1ee9f7ecbce35a73256554	true
-final/Group 14 Final Report.pdf	docs/Group 14 Final Report.pdf	717305	844212edf29b35f63ff7ed727f58d7fb619cf084365f9d09bd93c6370b8f3d95	true
