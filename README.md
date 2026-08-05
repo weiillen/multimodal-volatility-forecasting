@@ -137,7 +137,8 @@ The archive contains full financial-news article text and a team report with nam
 ## Authorship and licensing
 
 This repository contains collaborative academic work and third-party datasets. No open-source license has been added because the supplied archive does not establish that every contributor or data provider authorized relicensing. The source files and report retain their original attribution.
-Contributions
+
+## Contributions
 
 - Malvin Julius malvinjulius12@gmail.com — study research, methodology design, result analysis, evaluation metrics, data curation
 - Richard Bryan Cuthbert richardbryancuthbert25@gmail.com — methodology design, study research
