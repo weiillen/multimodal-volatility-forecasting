@@ -12,6 +12,20 @@ The repository is organized as a portfolio wrapper around the original project f
 
 Historical prices encode market behavior, while financial news may provide information about external shocks. This project asks whether combining those two sources improves volatility forecasting relative to either source alone.
 
+## Full project report
+
+The full report is available as a PDF:
+
+**[Group 14 Final Report](docs/Group%2014%20Final%20Report.pdf)**
+
+The report is also reproduced below for direct viewing.
+
+![Project report page 1](docs/report-pages/page-1.png)
+![Project report page 2](docs/report-pages/page-2.png)
+![Project report page 3](docs/report-pages/page-3.png)
+![Project report page 4](docs/report-pages/page-4.png)
+![Project report page 5](docs/report-pages/page-5.png)
+
 The pipeline compares:
 
 1. **Price-only model** — a 60-trading-day OHLCV sequence is encoded by an LSTM into a 64-dimensional representation.
