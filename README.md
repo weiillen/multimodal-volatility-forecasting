@@ -99,9 +99,8 @@ The experiment supports three conclusions within this dataset and split:
 
 These findings are experimental results, not evidence of a deployable trading or risk-management system.
 
-## My documented contribution
+## My contribution
 
-The original project README records **Ting-Yu Tsai** as contributing to:
 
 - research-question formulation;
 - results and conclusion development; and
