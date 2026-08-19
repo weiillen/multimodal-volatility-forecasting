@@ -100,11 +100,7 @@ This was a six-person team project. The original contributor list and role alloc
 ```text
 .
 ├── README.md
-├── ORIGINAL_FILE_MANIFEST.tsv
-├── PRESERVATION_POLICY.md
 ├── REPRODUCIBILITY.md
-├── DATA_AND_PUBLICATION_NOTES.md
-├── VERIFICATION.md
 ├── requirements.txt
 ├── assets/                         # figures extracted from existing notebook outputs
 ├── docs/
@@ -123,9 +119,7 @@ This was a six-person team project. The original contributor list and role alloc
 
 See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for the original run order, generated intermediate files, environment requirements, and known reproducibility constraints.
 
-## Important publication note
 
-The archive contains full financial-news article text and a team report with names and email addresses. Dataset redistribution rights and price-data provenance are not documented in the supplied files. Review [`DATA_AND_PUBLICATION_NOTES.md`](DATA_AND_PUBLICATION_NOTES.md) before making the repository public.
 
 ## Scope and limitations
 
