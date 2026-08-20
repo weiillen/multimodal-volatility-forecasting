@@ -5,12 +5,6 @@ A team machine-learning project that compares price-only, news-sentiment-only, a
 
 The repository is organized as a portfolio wrapper around the original project files. The submitted notebooks, utility module, datasets, repository README, and final report are preserved byte-for-byte under [`original-project/`](original-project/) and [`docs/`](docs/). No model code or notebook content was rewritten for this portfolio version.
 
-> **Project type:** academic team project  
-> **Primary topics:** time-series modeling, LSTM embeddings, financial NLP, FinBERT, multimodal fusion, ablation testing
-
-## Project question
-
-Historical prices encode market behavior, while financial news may provide information about external shocks. This project asks whether combining those two sources improves volatility forecasting relative to either source alone.
 
 ## Full project report
 
